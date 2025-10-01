@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.canva.com/design/DAGyU40rf20/GVWLq-zgkJ9yDR2va4jmOQ/edit" alt="Aditya Chaudhari - Full Stack Developer" />
+  <img src="https://github.com/chaudhari-aditya03/chaudhari-aditya03/blob/main/ADITYA%20CHAUDHARI.jpg" alt="Aditya Chaudhari - Full Stack Developer" />
 </p>
 
 ---
