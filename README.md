@@ -1,7 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="![Uploading image.png…]()
-" alt="Aditya Chaudhari - Full Stack Developer" />
+  <img src="https://www.pinterest.com/pin/handy-coding-logo--122371314868457410/" alt="Aditya Chaudhari - Full Stack Developer" />
 </p>
 
 ---
