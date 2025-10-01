@@ -3,9 +3,7 @@
   <img src="https://github.com/chaudhari-aditya03/chaudhari-aditya03/blob/main/GIT.png" alt="Aditya Chaudhari - Full Stack Developer" />
 </p>
 
----
 
-<h1 align="center">🚀 Aditya Chaudhari</h1>
 <h3 align="center">💻 Passionate Programmer | Full Stack Developer in progress</h3>
 
 ---
