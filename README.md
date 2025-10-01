@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/6M7xP3c.png" alt="Aditya Chaudhari - Full Stack Developer" />
+  <img src="![Uploading image.png…]()
+" alt="Aditya Chaudhari - Full Stack Developer" />
 </p>
 
 ---
@@ -20,10 +21,10 @@
 
 ### 📫 Connect with Me  
 <p align="center">
-  <a href="mailto:aditya.yourmail@gmail.com">
+  <a href="adityachaudhariedu312005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/aditya-chaudhari" target="_blank">
+  <a href="https://www.linkedin.com/in/aditya-chaudhari-b9767a36a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -49,31 +50,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YourUserName&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### ✨ Dynamic Intro
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+in+progress;Java+%7C+Spring+%7C+MERN;Passionate+about+Programming;Always+Learning+New+Things+🚀" alt="Typing SVG" />
-  </a>
-</p>
-
----
 
 ### 👀 Profile Visitors
 <p align="center">
