@@ -52,3 +52,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YourUserName&color=blue&style=for-the-badge" alt="Visitor Count" />
 </p>
+### 🐍 Watch my Contributions Snake 🐍
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
+
