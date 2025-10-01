@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.imgur.com/6M7xP3c.png" alt="Aditya Chaudhari - Full Stack Developer" />
+</p>
 <h1 align="center">Hi 👋, I'm Aditya Chaudhari</h1>
 <h3 align="center">💻 Passionate Programmer | Full Stack Developer in progress 🚀</h3>
 
@@ -27,4 +30,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+
 
