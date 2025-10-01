@@ -28,33 +28,3 @@
 ![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YourUserName&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-### ✨ Dynamic Intro
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer+in+progress;Java+%7C+Spring+%7C+MERN;Passionate+about+Programming;Always+Learning+New+Things+🚀" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-### 👀 Visitors Count
-![Visitor Count](https://komarev.com/ghpvc/?username=YourUserName&color=blue)
-
----
