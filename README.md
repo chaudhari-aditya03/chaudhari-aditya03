@@ -3,7 +3,7 @@
   <img src="https://github.com/chaudhari-aditya03/chaudhari-aditya03/blob/main/GIT.png" alt="Aditya Chaudhari - Full Stack Developer" />
 </p>
 
-<h3 align="center">🚀 Full Stack Developer | Java & MERN Enthusiast | Future Architect of Scalable Web Apps</h3>
+<h3 align="center">🚀 Full Stack Developer | Java & MERN Enthusiast | Architecting Scalable Web Apps</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chaudhari-aditya03&label=Profile%20views&color=0e75b6&style=flat" alt="aditya" />
@@ -11,17 +11,18 @@
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 🎓 Learning full-stack development with **Java (JSP, Servlets, JDBC)** and **MERN stack**
-- 💻 Building scalable apps like learning portals, converters, and CRUD systems
-- 🌐 Skilled in **HTML, CSS, JavaScript, Bootstrap, Tailwind**, and exploring **React**
-- 🛠️ Tools I use: **Git, GitHub, Postman, IntelliJ, Eclipse, MySQL, MongoDB**
-- ☁️ Exploring cloud integration with **Azure SQL**
+- 🎓 Passionate **Full Stack Developer** with hands-on experience in **Java (JSP, Servlets, JDBC, Spring Boot)** and **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.  
+- 💻 I love building **interactive learning platforms, CRUD apps, and scalable web systems**.  
+- 🌐 Frontend expert in **HTML, CSS, JavaScript, Bootstrap, Tailwind**, and currently exploring **React** deeply.  
+- 🧩 Tools I use daily: **Git, GitHub, Postman, IntelliJ, Eclipse, VS Code, MySQL, MongoDB**.  
+- ☁️ Exploring **Azure SQL** and cloud deployment for full-stack scalability.  
+- 🎯 Goal: To work with top-tier product-based companies like **Google, Amazon, NVIDIA**, and craft impactful software.
 
 ---
 
-### 🔧 Tech Stack
+## ⚙️ Tech Stack
 
 #### 💻 Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -30,6 +31,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 #### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -51,17 +53,31 @@
 
 ---
 
-### 📈 GitHub Stats
+## 🏗️ Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaudhari-aditya03&show_icons=true&theme=radical" alt="aditya stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaudhari-aditya03&theme=radical" alt="aditya streak" />
-</p>
+| Project | Description | Tech Stack | Links |
+|----------|--------------|-------------|--------|
+| 🎓 **MyClassPortal** | A complete LMS with student & admin dashboards — includes courses, lectures, tests, and attendance. | Java EE, JSP/Servlet, JDBC, MySQL | [🔗 Repo](https://github.com/chaudhari-aditya03/MyClassPortal) |
+| 🏡 **Gram Panchayat Digital App** | A digital solution for rural governance with public & admin dashboards. | MERN Stack (MongoDB, Express, React, Node.js) | [🔗 Repo](https://github.com/chaudhari-aditya03/GramPanchayatApp) |
+| ☎️ **PhoneBook Web App** | CRUD-based contact management system with Bootstrap UI. | JSP, Servlet, JDBC, MySQL | [🔗 Repo](https://github.com/chaudhari-aditya03/PhoneBookWebApp) |
+| ⚗️ **AI Pharma Formulator** | Intelligent drug formulation generator using Python & AI. | Python, Flask, Streamlit | [🔗 Repo](https://github.com/chaudhari-aditya03/AI-Pharma-Formulator) |
 
+---
 
-### 📫 Connect With Me
+## 📜 Certifications & Learning Path
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/aditya-chaudhari-b9767a36a/)
-- 📧 Email: adityachaudhariedu312005@gmail.com
-- 🌐 Portfolio: [Coming Soon!]
+### 🎓 Certifications
+- 🏅 **Core Java Mastery** – Completed full course covering OOPs, Exception Handling, Collections, Multithreading, and JDBC.  
+- 🧩 **Advanced Java & Java EE** – Built live projects using Servlets, JSP, and MVC Architecture.  
+- ⚙️ **Spring Boot & Hibernate** – Developing REST APIs, connecting with MySQL & MongoDB.  
+- 🌐 **Full Stack MERN Development** – Hands-on with React, Express, Node.js, and MongoDB.  
+- ☁️ **Azure Fundamentals (AZ-900)** – Basic cloud computing and Azure resource management. *(In Progress)*
 
+### 🛣️ Learning Path
+```mermaid
+graph LR
+A[Core Java] --> B[Advanced Java / JSP / Servlets]
+B --> C[Spring Boot & Hibernate]
+C --> D[MERN Stack]
+D --> E[DSA & System Design]
+E --> F[Cloud & DevOps Integration]
