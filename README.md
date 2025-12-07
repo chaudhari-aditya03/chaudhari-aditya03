@@ -77,7 +77,7 @@ Hi! I'm **Aditya**, a passionate **Full Stack Developer** who loves turning comp
 | 🏡 **Smart GramPanchayat App** | Citizen grievance + digital governance system | JSP, Servlets, JDBC |
 | 🧩 **10+ Mini Projects** | CRUD apps, utilities, dashboards | Java EE Stack |
 
----
+
 
 ## 🏆 Achievements  
 
@@ -87,11 +87,6 @@ Hi! I'm **Aditya**, a passionate **Full Stack Developer** who loves turning comp
 - 🔥 Solved **100+ DSA problems** (LeetCode + GFG)  
 - 📜 Certified in **Java**, **SQL**, **Web Development**, **Python Basics**  
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaudhari-aditya03&show_icons=true&theme=radical&hide_border=true" width="55%"/>
-</p>
 
 ---
 
