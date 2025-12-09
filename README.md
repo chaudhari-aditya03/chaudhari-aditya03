@@ -24,7 +24,7 @@ Hi! I'm **Aditya**, a passionate **Full Stack Developer** who loves turning comp
 🎯 **My philosophy:**  
 **Build products that work smoothly, scale effortlessly, and create real impact.**
 
-💡 Motto: *"Code. Learn. Build. Improve."*  
+💡 Motto: *" Code. Learn. Build. Improve."*  
 
 ---
 
