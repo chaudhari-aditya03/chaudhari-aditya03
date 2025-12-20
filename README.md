@@ -3,7 +3,7 @@
 <!-- ===================== -->
 
 <p align="center">
-  <img src="https://github.com/chaudhari-aditya03/chaudhari-aditya03/blob/main/GIT.png" width="100%" />
+  <img src="https://github.com/chaudhari-aditya03/chaudhari-aditya03/blob/main/GIT1.png" width="100%" />
 </p>
 
 <h1 align="center">Aditya Bapusaheb Chaudhari</h1>
