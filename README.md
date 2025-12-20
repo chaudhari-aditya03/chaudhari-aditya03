@@ -191,7 +191,7 @@ Includes course creation, assignments, and performance tracking.
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/aditya-chaudhari-b9767a36a/
 - 📧 **Email:** adityachaudhariedu312005@gmail.com
-- 🌐 **Portfolio:** *(Coming Soon)*
+- 🌐 **Portfolio:** https://adityaportfoliowebiste.netlify.app/
 - 🐙 **GitHub:** https://github.com/chaudhari-aditya03
 
 <br/>
