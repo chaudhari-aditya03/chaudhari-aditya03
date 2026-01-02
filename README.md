@@ -44,7 +44,7 @@ I’m **Aditya**, a **Full Stack Developer** with a strong backend mindset, focu
 
 ## 🔭 What I’m Currently Doing
 
-- 🌱 Learning **Spring Security, JWT, REST best practices, AWS basics**
+- 🌱 Learning ** Spring Security, JWT, REST best practices, AWS basics **
 - 🛠 Building **real-world full stack projects** (Java + MERN)
 - 🎯 Preparing for **SDE / Full Stack Developer roles**
 
