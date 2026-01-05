@@ -172,21 +172,6 @@ Includes course creation, assignments, and performance tracking.
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaudhari-aditya03&show_icons=true&hide_border=true&theme=transparent" height="155"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaudhari-aditya03&hide_border=true&theme=transparent" height="155"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaudhari-aditya03&layout=compact&hide_border=true&theme=transparent" height="135"/>
-</p>
-
-<br/>
-
----
-
 ## 🤝 Connect With Me
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/aditya-chaudhari-b9767a36a/
