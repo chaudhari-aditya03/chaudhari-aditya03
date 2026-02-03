@@ -53,7 +53,7 @@ I’m **Aditya**, a **Full Stack Developer** with a strong backend mindset, focu
 ---
 
 <!-- ===================== -->
-<!-- 🛠 TECH STACK -->
+<!-- 🛠 TECH STACK ---->
 <!-- ===================== -->
 
 ## 🛠 Tech Stack
