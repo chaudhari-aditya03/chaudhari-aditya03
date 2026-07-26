@@ -134,10 +134,6 @@ At Akarvi, I work on:
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=chaudhari-aditya03&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D353&text_color=C9D1D9&ring_color=58A6FF"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaudhari-aditya03&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaudhari-aditya03&hide_border=true&background=0D1117&stroke=161B22&ring=58A6FF&fire=D29922&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E"/>
