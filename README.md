@@ -139,9 +139,6 @@ At Akarvi, I work on:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaudhari-aditya03&hide_border=true&background=0D1117&stroke=161B22&ring=58A6FF&fire=D29922&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chaudhari-aditya03&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaudhari-aditya03&bg_color=0D1117&color=58A6FF&line=39D353&point=F778BA&area=true&hide_border=true" width="100%"/>
