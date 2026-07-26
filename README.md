@@ -1,26 +1,39 @@
 <!-- ===================== -->
-<!-- 🌟 HERO SECTION -->
+<!-- 🌌 HEADER -->
 <!-- ===================== -->
 
 <p align="center">
-  <img src="https://github.com/chaudhari-aditya03/chaudhari-aditya03/blob/main/GIT1.png" width="100%" />
-</p>
-
-<h1 align="center">Aditya Bapusaheb Chaudhari</h1>
-
-<h3 align="center">Full Stack Developer • Java • MERN</h3>
-
-<p align="center">
-  📍 India &nbsp;•&nbsp; 🕒 IST (UTC+5:30) &nbsp;•&nbsp; 💼 Open to SDE / Full Stack Roles
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=220&section=header&text=Aditya%20Bapusaheb%20Chaudhari&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20%40%20Akarvi%20Labs&descAlignY=58&descSize=18&descColor=39D353" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chaudhari-aditya03&style=flat&color=0ea5e9" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+MERN+%7C+Next.js;Building+Scalable+Systems+in+Production;System+Design+%7C+Cloud+%7C+DevOps;Clean+Code.+Real+Users.+Real+Impact.">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+%7C+MERN+%7C+Next.js;Building+Scalable+Systems+in+Production;System+Design+%7C+Cloud+%7C+DevOps;Clean+Code.+Real+Users.+Real+Impact." alt="Typing SVG"/>
+  </a>
 </p>
 
 <p align="center">
-  <i>Building scalable systems. Writing clean code. Learning every day.</i>
+  <img src="https://img.shields.io/badge/📍_Pune,_India-0D1117?style=for-the-badge&labelColor=0D1117&color=161B22"/>
+  <img src="https://img.shields.io/badge/🕒_IST_(UTC+5:30)-0D1117?style=for-the-badge&labelColor=0D1117&color=161B22"/>
+  <img src="https://img.shields.io/badge/💼_SDE_@_Akarvi_Labs-0D1117?style=for-the-badge&labelColor=0D1117&color=161B22"/>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-chaudhari-b9767a36a/"><img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/></a>
+  <a href="mailto:adityachaudhariedu312005@gmail.com"><img src="https://img.shields.io/badge/Gmail-39D353?style=for-the-badge&logo=gmail&logoColor=0D1117"/></a>
+  <a href="https://adityaportfoliowebiste.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-F778BA?style=for-the-badge&logo=vercel&logoColor=0D1117"/></a>
+  <a href="https://akarvi.com"><img src="https://img.shields.io/badge/Akarvi_Labs-D29922?style=for-the-badge&logo=briefcase&logoColor=0D1117"/></a>
+  <a href="https://github.com/aditya-chaudhari-dev"><img src="https://img.shields.io/badge/Official_GitHub-C9D1D9?style=for-the-badge&logo=github&logoColor=0D1117"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chaudhari-aditya03&style=for-the-badge&color=161B22&labelColor=0D1117"/>
+  <img src="https://img.shields.io/github/followers/chaudhari-aditya03?style=for-the-badge&color=161B22&labelColor=0D1117"/>
+</p>
+
+<blockquote align="center">
+  🔒 This is my <b>personal</b> GitHub. My <b>official / work</b> account is <a href="https://github.com/aditya-chaudhari-dev"><b>@aditya-chaudhari-dev</b></a> — that's where my production contributions live.
+</blockquote>
 
 <br/>
 
@@ -28,121 +41,115 @@
 
 ## 👋 About Me
 
-I’m **Aditya**, a **Full Stack Developer** with a strong backend mindset, focused on building **fast, scalable, and maintainable web applications**.
+I'm **Aditya**, a **Software Development Engineer at [Akarvi Labs Pvt. Ltd.](https://akarvi.com)**, Pune — a custom software engineering company that builds ERP, CRM, AI automation, MIS dashboards, mobile apps, and cloud infrastructure from scratch (no templates, no SaaS reselling) for Indian businesses.
 
-**What I enjoy working on**
-- Designing **scalable backend systems** using Java & Spring Boot  
-- Building **end-to-end full stack applications** with MERN  
-- Writing **clean, efficient, production-ready code**  
-- Improving **system design & software architecture**
+At Akarvi, I work on:
 
-> *Code. Learn. Build. Improve.*
+- ⚙️ Designing and building **custom ERP/CRM systems** tailored to real client workflows — not off-the-shelf SAP/Zoho clones
+- 🤖 Building **AI-native automation** into internal dashboards (natural-language queries, document/invoice reading)
+- 📊 Shipping **real-time MIS dashboards** that replace scattered Excel sheets and WhatsApp-driven operations
+- ☁️ Working across the **full stack** — Java/Spring Boot backends, React/Next.js frontends, AWS-based deployments
+- 🚀 Contributing to Akarvi's own live products, including **ClassicProfile**, **ClassicProjects**, and **ClassicTechnology**
 
-<br/>
-
----
-
-## 🔭 What I’m Currently Doing
-
-- 🌱 Learning ** Spring Security, JWT, REST best practices, AWS basics **
-- 🛠 Building **real-world full stack projects** (Java + MERN)
-- 🎯 Preparing for **SDE / Full Stack Developer roles**
+> *Code. Ship. Learn. Repeat.*
 
 <br/>
 
 ---
 
-<!-- ===================== -->
-<!-- 🛠 TECH STACK ---->
-<!-- ===================== -->
+## 🧬 Tech Stack
 
-## 🛠 Tech Stack
+<details open>
+<summary><b>⚙️ Languages & Core</b></summary>
+<br/>
 
-<table width="100%">
-<tr>
-<th align="left">Category</th>
-<th align="left">Technologies</th>
-</tr>
+<img src="https://img.shields.io/badge/Java-58A6FF?style=flat-square&logo=openjdk&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/JavaScript-39D353?style=flat-square&logo=javascript&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/TypeScript-58A6FF?style=flat-square&logo=typescript&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Python-D29922?style=flat-square&logo=python&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/C-C9D1D9?style=flat-square&logo=c&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/C++-F778BA?style=flat-square&logo=cplusplus&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/SQL-39D353?style=flat-square&logo=postgresql&logoColor=0D1117"/>
+</details>
 
-<tr>
-<td><strong>💻 Languages</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=java,js,python,c,cpp,cs,php,sql" height="34"/>
-</td>
-</tr>
+<details open>
+<summary><b>🔧 Backend</b></summary>
+<br/>
 
-<tr>
-<td><strong>⚙️ Backend</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,hibernate,jwt" height="34"/>
-</td>
-</tr>
+<img src="https://img.shields.io/badge/Spring_Boot-58A6FF?style=flat-square&logo=springboot&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Hibernate-D29922?style=flat-square&logo=hibernate&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Node.js-39D353?style=flat-square&logo=nodedotjs&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Express.js-C9D1D9?style=flat-square&logo=express&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/JWT_%26_Spring_Security-F778BA?style=flat-square&logo=jsonwebtokens&logoColor=0D1117"/>
+</details>
 
-<tr>
-<td><strong>🎨 Frontend</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap,materialui" height="34"/>
-</td>
-</tr>
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br/>
 
-<tr>
-<td><strong>🗄️ Databases</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" height="34"/>
-</td>
-</tr>
+<img src="https://img.shields.io/badge/React-58A6FF?style=flat-square&logo=react&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Next.js-C9D1D9?style=flat-square&logo=nextdotjs&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Redux-F778BA?style=flat-square&logo=redux&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-39D353?style=flat-square&logo=tailwindcss&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Bootstrap-D29922?style=flat-square&logo=bootstrap&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Material_UI-58A6FF?style=flat-square&logo=mui&logoColor=0D1117"/>
+</details>
 
-<tr>
-<td><strong>🛠️ DevOps & Tools</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,maven,gradle,idea,eclipse,vscode" height="34"/>
-</td>
-</tr>
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br/>
 
-<tr>
-<td><strong>☁️ Cloud & Deployment</strong></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=aws,firebase,vercel,netlify,render" height="34"/>
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/MySQL-58A6FF?style=flat-square&logo=mysql&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/PostgreSQL-39D353?style=flat-square&logo=postgresql&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/MongoDB-D29922?style=flat-square&logo=mongodb&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Oracle_PL/SQL-F778BA?style=flat-square&logo=oracle&logoColor=0D1117"/>
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br/>
+
+<img src="https://img.shields.io/badge/AWS-D29922?style=flat-square&logo=amazonaws&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Docker-58A6FF?style=flat-square&logo=docker&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Git-F778BA?style=flat-square&logo=git&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/GitHub-C9D1D9?style=flat-square&logo=github&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Postman-39D353?style=flat-square&logo=postman&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Vercel-58A6FF?style=flat-square&logo=vercel&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Firebase-D29922?style=flat-square&logo=firebase&logoColor=0D1117"/>
+</details>
+
+<details open>
+<summary><b>🧠 Architecture & Practices</b></summary>
+<br/>
+
+<img src="https://img.shields.io/badge/System_Design-58A6FF?style=flat-square&logo=diagramsdotnet&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/REST_API_Design-39D353?style=flat-square&logo=fastapi&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/Microservices-D29922?style=flat-square&logo=kubernetes&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/CI%2FCD-F778BA?style=flat-square&logo=githubactions&logoColor=0D1117"/>
+</details>
 
 <br/>
 
 ---
 
-<!-- ===================== -->
-<!-- 🚀 FEATURED PROJECTS -->
-<!-- ===================== -->
+## 📊 GitHub Analytics
 
-## 🚀 Featured Projects
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=chaudhari-aditya03&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D353&text_color=C9D1D9&ring_color=58A6FF"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaudhari-aditya03&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+</p>
 
-> **Pinned repositories below demonstrate clean architecture, real-world problem solving, and complete implementations**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaudhari-aditya03&hide_border=true&background=0D1117&stroke=161B22&ring=58A6FF&fire=D29922&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E"/>
+</p>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chaudhari-aditya03&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
+</p>
 
-### 🎓 Future Developers LMS
-**Role-based Learning Management System** with dashboards for admins, teachers, and students.  
-Includes course creation, assignments, and performance tracking.
-
-**Tech Stack:** Java EE · JSP · Servlets · MySQL  
-🔗 *Pinned Repository*
-
----
-
-### 🏡 Smart GramPanchayat App
-**Digital governance platform** for citizen grievance handling and public services with role-based access.
-
-**Tech Stack:** JSP · Servlets · JDBC · MySQL  
-🔗 *Pinned Repository*
-
----
-
-### 🧩 Mini Projects Collection
-**10+ backend-focused projects** including CRUD applications, dashboards, and utilities.
-
-**Tech Stack:** Java EE Stack  
-🔗 *Pinned Repositories*
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaudhari-aditya03&bg_color=0D1117&color=58A6FF&line=39D353&point=F778BA&area=true&hide_border=true" width="100%"/>
+</p>
 
 <br/>
 
@@ -150,34 +157,23 @@ Includes course creation, assignments, and performance tracking.
 
 ## 🏆 Achievements
 
-- 🥇 **1st Rank** — B.Sc. Computer Science  
-- 🏅 Selected for **University-Level AVISHKAR Research Competition**  
-- 💡 Built & deployed multiple **full stack applications**  
-- 🔥 Solved **100+ DSA problems** (LeetCode + GeeksforGeeks)  
+- 🥇 **1st Rank** — B.Sc. Computer Science
+- 🏅 Selected for **University-Level AVISHKAR Research Competition**
+- 💼 Working as **SDE at Akarvi Labs Pvt. Ltd.**, contributing to production systems used by real businesses
+- 🔥 Solved **100+ DSA problems** (LeetCode + GeeksforGeeks)
 - 📜 Certifications in **Java, SQL, Web Development, Python Basics**
 
 <br/>
 
 ---
 
-## 📚 Learning & Growth Focus
+## 📚 Currently Leveling Up
 
-- Advanced **Spring Boot**, **Spring Security**, **JWT authentication**
-- Designing **RESTful APIs** with proper testing
-- Exploring **AWS (EC2, RDS, S3)** and CI/CD basics
-- Regular **DSA practice** for interviews
-- Strengthening **system design fundamentals**
-
-<br/>
-
----
-
-## 🤝 Connect With Me
-
-- 💼 **LinkedIn:** https://www.linkedin.com/in/aditya-chaudhari-b9767a36a/
-- 📧 **Email:** adityachaudhariedu312005@gmail.com
-- 🌐 **Portfolio:** https://adityaportfoliowebiste.netlify.app/
-- 🐙 **GitHub:** https://github.com/chaudhari-aditya03
+- 🌱 Deep-diving into **Spring Security, JWT, and REST API best practices**
+- 🧩 Sharpening **System Design** fundamentals (HLD/LLD, scalability, caching)
+- ☁️ Going deeper into **AWS (EC2, RDS, S3)** and CI/CD pipelines
+- 🐳 Containerizing services with **Docker**
+- 🧮 Daily **DSA practice** to stay interview-sharp
 
 <br/>
 
@@ -186,11 +182,15 @@ Includes course creation, assignments, and performance tracking.
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 <br/>
 
+<!-- ===================== -->
+<!-- 🌌 FOOTER -->
+<!-- ===================== -->
+
 <p align="center">
-  <sub>Crafted with ❤️ by Aditya</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=150&section=footer&text=Talk%20to%20the%20builders,%20not%20the%20account%20managers.&fontSize=16&fontColor=58A6FF&animation=fadeIn&fontAlignY=75" width="100%"/>
 </p>
