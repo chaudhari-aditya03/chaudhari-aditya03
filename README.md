@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-chaudhari-b9767a36a/"><img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/></a>
   <a href="mailto:adityachaudhariedu312005@gmail.com"><img src="https://img.shields.io/badge/Gmail-39D353?style=for-the-badge&logo=gmail&logoColor=0D1117"/></a>
-  <a href="https://adityaportfoliowebiste.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-F778BA?style=for-the-badge&logo=vercel&logoColor=0D1117"/></a>
+  <a href="https://adityaportfolio-taupe.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F778BA?style=for-the-badge&logo=vercel&logoColor=0D1117"/></a>
   <a href="https://akarvi.com"><img src="https://img.shields.io/badge/Akarvi_Labs-D29922?style=for-the-badge&logo=briefcase&logoColor=0D1117"/></a>
   <a href="https://github.com/aditya-chaudhari-dev"><img src="https://img.shields.io/badge/Official_GitHub-C9D1D9?style=for-the-badge&logo=github&logoColor=0D1117"/></a>
 </p>
@@ -266,7 +266,7 @@ I love contributing to and learning from:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-chaudhari-b9767a36a/"><img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/></a>
-  <a href="https://adityaportfoliowebiste.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-F778BA?style=for-the-badge&logo=vercel&logoColor=0D1117"/></a>
+  <a href="https://adityaportfolio-taupe.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F778BA?style=for-the-badge&logo=vercel&logoColor=0D1117"/></a>
   <a href="https://github.com/aditya-chaudhari-dev"><img src="https://img.shields.io/badge/GitHub-C9D1D9?style=for-the-badge&logo=github&logoColor=0D1117"/></a>
   <a href="mailto:adityachaudhariedu312005@gmail.com"><img src="https://img.shields.io/badge/Email-39D353?style=for-the-badge&logo=gmail&logoColor=0D1117"/></a>
 </p>
